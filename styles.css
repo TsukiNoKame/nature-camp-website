@@ -272,13 +272,13 @@ body {
 }
 
 #about .text-container h2 {
-  color: hsl(125, 30%, 40%);
+  color: hsl(125, 30%, 45%);
   font-size: 1rem;
   margin-bottom: 10px;
 }
 
 #about .text-container h3 {
-  color: hsl(125, 30%, 45%);
+  color: hsl(125, 30%, 40%);
   font-size: 2rem;
   margin-bottom: 10px;
 }
